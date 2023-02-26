@@ -32,7 +32,8 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'neovim/nvim-lspconfig'
 Plug 'tpope/vim-commentary'
 Plug 'rhysd/vim-clang-format'
-
+Plug 'derekwyatt/vim-scala'
+Plug 'scalameta/nvim-metals'
 call plug#end()
 
 colorscheme improved_default
